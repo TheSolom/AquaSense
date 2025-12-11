@@ -19,7 +19,7 @@ AquaSense is a MVP for a smart water management mobile application designed to a
 ## 🎥 Video Demo
 
 <div align="center">
-![Video Demo](https://youtube.com/shorts/Bm6pGErDlUQ 'Video Demo')
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Bm6pGErDlUQ?si=9WxCPdWtPXPLVTkb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## 🚧 Key Challenges
